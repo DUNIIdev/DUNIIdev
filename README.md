@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DUNIIdev
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend Web Development
+- 👋 Hi, I’m @ART
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Data Visualization
 - 💞️ I’m looking to collaborate 
 
 
